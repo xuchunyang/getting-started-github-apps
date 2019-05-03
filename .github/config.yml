@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  请介绍下这个 issue/pr！
+  请介绍下这个 issue/pr。
 
 # Or an array:
 # requestInfoReplyComment:
